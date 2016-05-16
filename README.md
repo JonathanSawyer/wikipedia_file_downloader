@@ -1,2 +1,2 @@
 # wikipedia_file_downloader
-downloads pages from wikipedia into a file as text
+This tool downloads the contents of wikipedia pages. In order to configure the tool use the App.Config.
