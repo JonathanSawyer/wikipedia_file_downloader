@@ -1,0 +1,7 @@
+C:\Development\GOLD V1\WikipediaParser\TestWikipediaParser\bin\Debug\TestWikipediaParser.dll
+C:\Development\GOLD V1\WikipediaParser\TestWikipediaParser\bin\Debug\TestWikipediaParser.pdb
+C:\Development\GOLD V1\WikipediaParser\TestWikipediaParser\bin\Debug\nunit.framework.dll
+C:\Development\GOLD V1\WikipediaParser\TestWikipediaParser\bin\Debug\nunit.framework.xml
+C:\Development\GOLD V1\WikipediaParser\TestWikipediaParser\obj\Debug\TestWikipediaParser.csprojResolveAssemblyReference.cache
+C:\Development\GOLD V1\WikipediaParser\TestWikipediaParser\obj\Debug\TestWikipediaParser.dll
+C:\Development\GOLD V1\WikipediaParser\TestWikipediaParser\obj\Debug\TestWikipediaParser.pdb

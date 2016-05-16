@@ -1,0 +1,8 @@
+C:\Development\GOLD V1\WikipediaParser\WikipediaParser\bin\Debug\WikipediaParser.exe.config
+C:\Development\GOLD V1\WikipediaParser\WikipediaParser\bin\Debug\WikipediaParser.exe
+C:\Development\GOLD V1\WikipediaParser\WikipediaParser\bin\Debug\WikipediaParser.pdb
+C:\Development\GOLD V1\WikipediaParser\WikipediaParser\bin\Debug\Newtonsoft.Json.dll
+C:\Development\GOLD V1\WikipediaParser\WikipediaParser\bin\Debug\Newtonsoft.Json.xml
+C:\Development\GOLD V1\WikipediaParser\WikipediaParser\obj\Debug\WikipediaParser.csprojResolveAssemblyReference.cache
+C:\Development\GOLD V1\WikipediaParser\WikipediaParser\obj\Debug\WikipediaParser.exe
+C:\Development\GOLD V1\WikipediaParser\WikipediaParser\obj\Debug\WikipediaParser.pdb
